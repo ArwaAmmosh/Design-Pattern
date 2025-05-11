@@ -1,0 +1,15 @@
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\bin\Debug\net8.0\Observers.exe
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\bin\Debug\net8.0\Observers.deps.json
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\bin\Debug\net8.0\Observers.runtimeconfig.json
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\bin\Debug\net8.0\Observers.dll
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\bin\Debug\net8.0\Observers.pdb
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.AssemblyInfoInputs.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.AssemblyInfo.cs
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.csproj.CoreCompileInputs.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.sourcelink.json
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.dll
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\refint\Observers.dll
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.pdb
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\Observers.genruntimeconfig.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observers\obj\Debug\net8.0\ref\Observers.dll

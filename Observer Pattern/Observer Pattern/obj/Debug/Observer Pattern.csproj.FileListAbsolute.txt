@@ -1,0 +1,12 @@
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe.config
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.exe
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\bin\Debug\Observer Pattern.pdb
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csproj.AssemblyReference.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Form1.resources
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.FormMain.resources
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csproj.GenerateResource.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.csproj.CoreCompileInputs.cache
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.exe
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer Pattern.pdb
+C:\Users\EL-MASREYIA\source\repos\Observer Pattern\Observer Pattern\obj\Debug\Observer_Pattern.Form3.resources
